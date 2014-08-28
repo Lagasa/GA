@@ -1,0 +1,23 @@
+body {
+	background-color: green;
+}
+
+p {
+  font-size: 12px;
+  color: red;
+}
+
+.main-paragraph {
+    font-size: 14px;
+    color: green;
+    font-wieght: bold;
+    background-color: purple;
+}
+
+.main-left {
+  float: right;
+}
+
+#special_para {
+  color: blue;
+}
